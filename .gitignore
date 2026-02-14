@@ -4,3 +4,13 @@ __pycache__/
 *.pyc
 .DS_Store
 screenshot.png
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+*.txt
+ScreenshotLambdaV2/publish/
+
+.playwright/
